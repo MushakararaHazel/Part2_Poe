@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\POE-Part2\\CyberSecurity Chatbot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CABE3-4E3E-449D-BE57-C21076B9A259}|CyberSecurity Chatbot.csproj|c:\\users\\lab_services_student\\desktop\\poe-part2\\cybersecurity chatbot\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CABE3-4E3E-449D-BE57-C21076B9A259}|CyberSecurity Chatbot.csproj|solutionrelative:userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CABE3-4E3E-449D-BE57-C21076B9A259}|CyberSecurity Chatbot.csproj|c:\\users\\lab_services_student\\desktop\\poe-part2\\cybersecurity chatbot\\chatbotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CABE3-4E3E-449D-BE57-C21076B9A259}|CyberSecurity Chatbot.csproj|solutionrelative:chatbotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CABE3-4E3E-449D-BE57-C21076B9A259}|CyberSecurity Chatbot.csproj|c:\\users\\lab_services_student\\desktop\\poe-part2\\cybersecurity chatbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CABE3-4E3E-449D-BE57-C21076B9A259}|CyberSecurity Chatbot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CABE3-4E3E-449D-BE57-C21076B9A259}|CyberSecurity Chatbot.csproj|c:\\users\\lab_services_student\\desktop\\poe-part2\\cybersecurity chatbot\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CABE3-4E3E-449D-BE57-C21076B9A259}|CyberSecurity Chatbot.csproj|solutionrelative:responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CABE3-4E3E-449D-BE57-C21076B9A259}|CyberSecurity Chatbot.csproj|c:\\users\\lab_services_student\\desktop\\poe-part2\\cybersecurity chatbot\\sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CABE3-4E3E-449D-BE57-C21076B9A259}|CyberSecurity Chatbot.csproj|solutionrelative:sentimentanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CABE3-4E3E-449D-BE57-C21076B9A259}|CyberSecurity Chatbot.csproj|c:\\users\\lab_services_student\\desktop\\poe-part2\\cybersecurity chatbot\\audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CABE3-4E3E-449D-BE57-C21076B9A259}|CyberSecurity Chatbot.csproj|solutionrelative:audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B7CABE3-4E3E-449D-BE57-C21076B9A259}|CyberSecurity Chatbot.csproj|c:\\users\\lab_services_student\\desktop\\poe-part2\\cybersecurity chatbot\\memoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B7CABE3-4E3E-449D-BE57-C21076B9A259}|CyberSecurity Chatbot.csproj|solutionrelative:memoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SentimentAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\POE-Part2\\CyberSecurity Chatbot\\SentimentAnalyzer.cs",
+              "RelativeDocumentMoniker": "SentimentAnalyzer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\POE-Part2\\CyberSecurity Chatbot\\SentimentAnalyzer.cs",
+              "RelativeToolTip": "SentimentAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:58:58.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemoryService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\POE-Part2\\CyberSecurity Chatbot\\MemoryService.cs",
+              "RelativeDocumentMoniker": "MemoryService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\POE-Part2\\CyberSecurity Chatbot\\MemoryService.cs",
+              "RelativeToolTip": "MemoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:55:03.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Responses.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\POE-Part2\\CyberSecurity Chatbot\\Responses.cs",
+              "RelativeDocumentMoniker": "Responses.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\POE-Part2\\CyberSecurity Chatbot\\Responses.cs",
+              "RelativeToolTip": "Responses.cs",
+              "ViewState": "AgIAANAAAAAA/f///z8iwOgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:07:21.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Audio.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\POE-Part2\\CyberSecurity Chatbot\\Audio.cs",
+              "RelativeDocumentMoniker": "Audio.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\POE-Part2\\CyberSecurity Chatbot\\Audio.cs",
+              "RelativeToolTip": "Audio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:29:19.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\POE-Part2\\CyberSecurity Chatbot\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\POE-Part2\\CyberSecurity Chatbot\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:14:57.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatbotEngine.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\POE-Part2\\CyberSecurity Chatbot\\ChatbotEngine.cs",
+              "RelativeDocumentMoniker": "ChatbotEngine.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\POE-Part2\\CyberSecurity Chatbot\\ChatbotEngine.cs",
+              "RelativeToolTip": "ChatbotEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:16:52.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\POE-Part2\\CyberSecurity Chatbot\\UserInterface.cs",
+              "RelativeDocumentMoniker": "UserInterface.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\POE-Part2\\CyberSecurity Chatbot\\UserInterface.cs",
+              "RelativeToolTip": "UserInterface.cs",
+              "ViewState": "AgIAABEAAACAzMzMzMwfwH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:44:20.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
