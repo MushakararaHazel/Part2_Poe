@@ -17,13 +17,7 @@ Provides context-aware recommendations
 
 Comprehensive Education
 
-Covers 10+ essential topics:
-✓ Password security
-✓ Phishing detection
-✓ Two-factor authentication
-✓ Public WiFi risks
-✓ Social media privacy
-✓ Malware protection
+Covers topics: Password security Phishing detection, Two-factor authentication, Public WiFi risks, Social media privacy, Malware protection
 
 🔹 User-Friendly Interface
 
